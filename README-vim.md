@@ -3,6 +3,8 @@
 Config files for vim and tmux, lovingly tended by a small subculture of
 peace-loving hippies. Built for Mac OS X.
 
+Details in: https://github.com/macvim-dev/macvim
+
 ## What's in it?
 
 * [MacVim](https://github.com/macvim-dev/macvim) (independent or for use in a terminal)
